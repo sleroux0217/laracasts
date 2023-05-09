@@ -4,7 +4,7 @@ return [
     'database' => [
         'host' => 'localhost',
         'port' => 3306,
-        'dbname' => 'laracasts',
+        'dbname' => 'myapp',
         'charset' => 'utf8mb4'
     ],
 
